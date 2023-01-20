@@ -5,4 +5,4 @@
 
 # Diagrama de Grupo de Acessos.
 
-![](C:\MyProjects\MyStudy\Desenhando_Sua_Organização_de-Pastas_e_Projetos_e_Grupos_de_Acessos_na_Google_Cloud_Platform\Grupos_de_acesso.png)
+![](https://github.com/andrerj2000/MyStudy/blob/main/Desenhando_Sua_Organiza%C3%A7%C3%A3o_de-Pastas_e_Projetos_e_Grupos_de_Acessos_na_Google_Cloud_Platform/Grupos_de_acesso.png)
